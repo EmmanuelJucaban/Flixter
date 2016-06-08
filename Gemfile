@@ -9,6 +9,7 @@ gem 'simple_form'
 gem 'carrierwave'
 gem "figaro"
 gem 'fog'
+gem 'mini_magick', '~> 4.3.1'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
